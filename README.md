@@ -1,0 +1,1 @@
+Ini merupakan machine learning untuk menghitung pemakaian tawas, coustic soda, dan polimer berdasarkan kualitas turbidity, pH, flowrate, dan running hour. Data yang didapatkan dengan menggunakan jartest dan diolah menggunakan regression method untuk menentukan formula pemakaian chemical.
